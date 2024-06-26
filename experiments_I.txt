@@ -1,0 +1,6 @@
+Hydrogen
+Helium
+Lithium
+Beryllium
+Boron
+Carbon
